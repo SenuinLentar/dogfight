@@ -15,7 +15,7 @@ public class DogfightController implements IOrderPerformer{
 		
 	}
 	
-	public void player(){
+	public void play(){
 		
 	}
 	

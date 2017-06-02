@@ -1,10 +1,12 @@
 package jpu2016.gameframe;
 
 import javax.swing.*;
+
+import java.awt.Graphics;
 import java.util.*;
 
 public class GamePanel {
-	public void GamePanel(IgraphicsBuilder graphicsBuilder){
+	public GamePanel(IGraphicsBuilder graphicsBuilder){
 		
 	}
 	

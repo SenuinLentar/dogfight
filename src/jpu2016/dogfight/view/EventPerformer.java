@@ -1,10 +1,13 @@
 package jpu2016.dogfight.view;
 
 import jpu2016.gameframe.*;
+
+import java.awt.event.KeyEvent;
+
 import jpu2016.dogfight.controller.*;
 
 public class EventPerformer implements IEventPerformer{
-	public void EventPerformer(IOrderPerformer orderPerformer){
+	public EventPerformer(IOrderPerformer orderPerformer){
 		
 	}
 	

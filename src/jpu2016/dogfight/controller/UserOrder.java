@@ -4,6 +4,10 @@ public class UserOrder implements IUserOrder{
 	
 	private int player;
 	
+	public UserOrder(){
+		
+	}
+	
 	public UserOrder(int player, Order order){
 		
 	}
