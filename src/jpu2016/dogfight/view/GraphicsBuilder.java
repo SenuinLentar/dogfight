@@ -1,6 +1,7 @@
 package jpu2016.dogfight.view;
 
-import java.awt.image.*;
+import java.awt.image.BufferedImage;
+import jpu2016.dogfight.model;
 
 public class GraphicsBuilder {
 	public void GraphicsBuilder(IDogFightModel dogFightModel){

@@ -1,5 +1,5 @@
 package jpu2016.gameframe;
 
 public interface IEventPerformer {
-	public void eventPerformer(KeyEvent keyEvent);
+	public void eventPerform(KeyEvent keyCode);
 }
