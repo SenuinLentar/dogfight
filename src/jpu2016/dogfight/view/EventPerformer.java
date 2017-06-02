@@ -1,7 +1,7 @@
 package jpu2016.dogfight.view;
 
 import jpu2016.gameframe.*;
-import jpu2016.dogfight.controller;
+import jpu2016.dogfight.controller.*;
 
 public class EventPerformer implements IEventPerformer{
 	public void EventPerformer(IOrderPerformer orderPerformer){
@@ -16,3 +16,6 @@ public class EventPerformer implements IEventPerformer{
 		return new UserOrder();
 	}
 }
+
+
+
